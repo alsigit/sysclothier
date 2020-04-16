@@ -15,9 +15,9 @@ if ($key !== $apikey) {
 	die(json_encode($res));
 }
 
-$dsn = "mysql:host=mysql;dbname=u281829034_unupy";
-$user = "u281829034_apygy";
-$passwd = "eqedeZyRuq";
+$dsn = "mysql:host=mysql;dbname=xxxx";
+$user = "xxxx";
+$passwd = "xxxx";
 
 $pdo = new PDO($dsn, $user, $passwd);
 
