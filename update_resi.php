@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: application/json');
-$apikey = md5("ini_adalah_api_key"); // ae4f0ca4dadda695a6d0c2fd231ea72a
+$apikey = hdjdhd
 
 $id = (!empty($_GET['id'])) ? $_GET['id'] : '';
 $resi = (!empty($_GET['resi'])) ? $_GET['resi'] : '';
